@@ -8,7 +8,7 @@
 #Write Assignment code here
 
 def q1():
-  name = Alex
+  name = "Alex"
   print(name)  
 
 def q2():
@@ -29,13 +29,14 @@ def q4():
     print(num6 / num7)
 
 def q5():
-    word = Hello World
+    word = "Hello World"
     print(word)
-    word = Goodbye World
+    word = "Goodbye World"
     print(word)
 
 def q6():
     tOrF = True
+    print(tOrF)
 
 def q7():
     num8 = 7
