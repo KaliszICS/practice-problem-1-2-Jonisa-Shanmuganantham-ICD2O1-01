@@ -16,7 +16,7 @@ def q2():
     num2 = 3
     num3 = 5
     print(num1 + num2 + num3)
-
+ 
 
 def q3():
    num4 = 21
