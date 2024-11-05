@@ -33,7 +33,7 @@ def q5():
     print(word)
     word = "Goodbye World"
     print(word)
-
+ 
 def q6():
     tOrF = True
     print(tOrF)
